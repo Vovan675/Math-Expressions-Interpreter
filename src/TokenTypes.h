@@ -1,5 +1,10 @@
 #pragma once
 
+/*
+	Types of all tokens
+*/
+
+
 #define NUMBER 0
 
 #define PLUS 1
